@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>asde</description>
+   <name>Login_Var1</name>
+   <tag>ede</tag>
+   <comment></comment>
+   <testCaseGuid>d6f35c42-52a9-4eaa-850a-071d9c97c28e</testCaseGuid>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/'</defaultValue>
+      <description></description>
+      <id>7cc5e0c7-fc84-4e25-94fa-c9b1b63c7910</id>
+      <masked>false</masked>
+      <name>App_Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>67ea7e80-26eb-4e2d-a5f5-ad96dad0d232</id>
+      <masked>false</masked>
+      <name>Uname</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>9ea371c1-261e-4cc9-bee2-646b731ce911</id>
+      <masked>false</masked>
+      <name>Pwd</name>
+   </variable>
+</TestCaseEntity>

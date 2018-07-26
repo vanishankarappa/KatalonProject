@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login" time="1" tests="0" failures="1" errors="0">
+   <testsuite name="Login" tests="0" failures="1" errors="0" time="1" timestamp="2018-07-24 15:06:38" hostname="slk - WSLK1FFTRFW-21" id="Test Suites/Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-21.000\\Katalon Studio\\Demo1_SLK\\Reports\\Login\\20180724_150636"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-21.000\\Katalon Studio\\Demo1_SLK\\Reports\\Login\\20180724_150636\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-21"/>
+         <property name="hostAddress" value="10.10.10.29"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+      </properties>
+      <testcase name="Test Cases/Login/Test1" classname="Test Cases/Login/Test1" status="FAILED">
+         <failure type="FAILED" message="Unable to navigate to 'http://demoaut.katalon.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-21', ip: '10.10.10.29', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)"/>
+         <system-out><![CDATA[2018-07-24 15:06:38 - [TEST_CASE][FAILED] - Test Cases/Login/Test1: Test Cases/Login/Test1 FAILED because (of) Unable to navigate to 'http://demoaut.katalon.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-21', ip: '10.10.10.29', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)
+
+2018-07-24 15:06:39 - [TEST_STEP][NOT_RUN] - openBrowser: NOT_RUN: openBrowser
+
+2018-07-24 15:06:39 - [MESSAGE][NOT_RUN] - NOT_RUN: openBrowser
+
+2018-07-24 15:06:39 - [TEST_STEP][FAILED] - navigateToUrl: Unable to navigate to 'http://demoaut.katalon.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-21', ip: '10.10.10.29', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)
+
+2018-07-24 15:06:39 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2018-07-24 15:06:39 - [MESSAGE][FAILED] - Unable to navigate to 'http://demoaut.katalon.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-21', ip: '10.10.10.29', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-out>
+         <system-err><![CDATA[2018-07-24 15:06:38 - [TEST_CASE][FAILED] - Test Cases/Login/Test1: Test Cases/Login/Test1 FAILED because (of) Unable to navigate to 'http://demoaut.katalon.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-21', ip: '10.10.10.29', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 15:06:38 - [TEST_SUITE][FAILED] - Login: Test Cases/Login/Test1 FAILED because (of) Unable to navigate to 'http://demoaut.katalon.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-21', ip: '10.10.10.29', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-out>
+      <system-err><![CDATA[2018-07-24 15:06:38 - [TEST_SUITE][FAILED] - Login: Test Cases/Login/Test1 FAILED because (of) Unable to navigate to 'http://demoaut.katalon.com/' (Root cause: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WSLK1FFTRFW-21', ip: '10.10.10.29', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: driver.version: unknown)]]></system-err>
+   </testsuite>
+</testsuites>

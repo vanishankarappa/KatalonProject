@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>asd</description>
+   <name>KeywordTest1</name>
+   <tag>aqwdw</tag>
+   <comment></comment>
+   <testCaseGuid>5a54f1cd-cdda-4ac4-9466-8ecf079ec1be</testCaseGuid>
+   <variable>
+      <defaultValue>'Vani'</defaultValue>
+      <description></description>
+      <id>94d67884-a52b-48d1-a09e-7741c1682cd4</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

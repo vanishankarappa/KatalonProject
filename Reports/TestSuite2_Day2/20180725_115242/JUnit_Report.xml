@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite2_Day2" time="4" tests="0" failures="1" errors="0">
+   <testsuite name="TestSuite2_Day2" tests="0" failures="1" errors="0" time="4" timestamp="2018-07-25 11:52:43" hostname="slk - WSLK1FFTRFW-21" id="Test Suites/TestSuite2_Day2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-21.000\\Katalon Studio\\Demo1_SLK\\Reports\\TestSuite2_Day2\\20180725_115242"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-21.000\\Katalon Studio\\Demo1_SLK\\Reports\\TestSuite2_Day2\\20180725_115242\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\slk.WSLK1FFTRFW-21.000\\Katalon Studio\\Demo1_SLK\\Reports\\TestSuite2_Day2\\20180725_115242\\1532499767294.png"/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-21"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.10.10.29"/>
+         <property name="sessionId" value="2de3b9de022d1ee37980aca8e036eee6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Scenario1_Var/Login_ExtVar2" classname="Test Cases/Scenario1_Var/Login_ExtVar2" status="FAILED">
+         <failure type="FAILED" message="Unable to navigate to '' (Root cause: java.lang.IllegalArgumentException: Url cannot be null or empty)"/>
+         <system-out><![CDATA[2018-07-25 11:52:44 - [TEST_CASE][FAILED] - Test Cases/Scenario1_Var/Login_ExtVar2: Test Cases/Scenario1_Var/Login_ExtVar2 FAILED because (of) Unable to navigate to '' (Root cause: java.lang.IllegalArgumentException: Url cannot be null or empty)
+
+2018-07-25 11:52:44 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 11:52:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 11:52:47 - [TEST_STEP][FAILED] - navigateToUrl: Unable to navigate to '' (Root cause: java.lang.IllegalArgumentException: Url cannot be null or empty)
+
+2018-07-25 11:52:47 - [MESSAGE][FAILED] - Unable to navigate to '' (Root cause: java.lang.IllegalArgumentException: Url cannot be null or empty)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-21.000\\Katalon Studio\\Demo1_SLK\\Reports\\TestSuite2_Day2\\20180725_115242\\1532499767294.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-25 11:52:44 - [TEST_CASE][FAILED] - Test Cases/Scenario1_Var/Login_ExtVar2: Test Cases/Scenario1_Var/Login_ExtVar2 FAILED because (of) Unable to navigate to '' (Root cause: java.lang.IllegalArgumentException: Url cannot be null or empty)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 11:52:43 - [TEST_SUITE][FAILED] - TestSuite2_Day2: Test Cases/Scenario1_Var/Login_ExtVar2 FAILED because (of) Unable to navigate to '' (Root cause: java.lang.IllegalArgumentException: Url cannot be null or empty)]]></system-out>
+      <system-err><![CDATA[2018-07-25 11:52:43 - [TEST_SUITE][FAILED] - TestSuite2_Day2: Test Cases/Scenario1_Var/Login_ExtVar2 FAILED because (of) Unable to navigate to '' (Root cause: java.lang.IllegalArgumentException: Url cannot be null or empty)]]></system-err>
+   </testsuite>
+</testsuites>

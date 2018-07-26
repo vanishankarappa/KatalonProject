@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite2_Day2,Chrome 67.0.3396.99,sfdd,2018-07-25 11:54:18,2018-07-25 11:54:27,9.310s,FAILED
+,,,,,,
+Test Cases/Scenario1_Var/Login_ExtVar2,Chrome 67.0.3396.99,asde,2018-07-25 11:54:18,2018-07-25 11:54:26,8.443s,FAILED
+openBrowser,Chrome 67.0.3396.99,,2018-07-25 11:54:18,2018-07-25 11:54:21,2.825s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-07-25 11:54:21,2018-07-25 11:54:26,4.633s,PASSED
+setText,Chrome 67.0.3396.99,,2018-07-25 11:54:26,2018-07-25 11:54:26,0.140s,PASSED
+setEncryptedText,Chrome 67.0.3396.99,,2018-07-25 11:54:26,2018-07-25 11:54:26,0.536s,FAILED

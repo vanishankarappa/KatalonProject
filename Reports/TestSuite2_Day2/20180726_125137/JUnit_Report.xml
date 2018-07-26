@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite2_Day2" time="12" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite2_Day2" tests="1" failures="0" errors="0" time="12" timestamp="2018-07-26 12:51:38" hostname="slk - WSLK1FFTRFW-21" id="Test Suites/TestSuite2_Day2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-21.000\\Katalon Studio\\Demo1_SLK\\Reports\\TestSuite2_Day2\\20180726_125137"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-21.000\\Katalon Studio\\Demo1_SLK\\Reports\\TestSuite2_Day2\\20180726_125137\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-21"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.10.10.29"/>
+         <property name="sessionId" value="5784ada71a7106913639bdc8ef5cc760"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Scenario1_Var/Login_ExtVar2" classname="Test Cases/Scenario1_Var/Login_ExtVar2" status="PASSED">
+         <system-out><![CDATA[2018-07-26 12:51:39 - [TEST_CASE][PASSED] - Test Cases/Scenario1_Var/Login_ExtVar2: Test Cases/Scenario1_Var/Login_ExtVar2
+
+2018-07-26 12:51:39 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-26 12:51:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-26 12:51:42 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-26 12:51:46 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-26 12:51:46 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/Scenario1_Var_LoginObjects/Page_OrangeHRM/input_txtUsername'
+
+2018-07-26 12:51:46 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Scenario1_Var_LoginObjects/Page_OrangeHRM/input_txtUsername'
+
+2018-07-26 12:51:46 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Scenario1_Var_LoginObjects/Page_OrangeHRM/input_txtPassword'
+
+2018-07-26 12:51:46 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Scenario1_Var_LoginObjects/Page_OrangeHRM/input_txtPassword'
+
+2018-07-26 12:51:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Scenario1_Var_LoginObjects/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-26 12:51:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Scenario1_Var_LoginObjects/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-26 12:51:51 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-26 12:51:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-26 12:51:38 - [TEST_SUITE][PASSED] - TestSuite2_Day2: Test Cases/Scenario1_Var/Login_ExtVar2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite_Day2,Chrome 67.0.3396.99,eeew,2018-07-25 11:01:32,2018-07-25 11:01:46,13.390s,PASSED
+,,,,,,
+Test Cases/Scenario1_Var/Login_EnvVar,Chrome 67.0.3396.99,Using Environment Variables,2018-07-25 11:01:33,2018-07-25 11:01:46,13.085s,PASSED
+openBrowser,Chrome 67.0.3396.99,,2018-07-25 11:01:33,2018-07-25 11:01:36,2.834s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-07-25 11:01:36,2018-07-25 11:01:41,4.846s,PASSED
+setText,Chrome 67.0.3396.99,,2018-07-25 11:01:41,2018-07-25 11:01:41,0.141s,PASSED
+setEncryptedText,Chrome 67.0.3396.99,,2018-07-25 11:01:41,2018-07-25 11:01:41,0.277s,PASSED
+click,Chrome 67.0.3396.99,,2018-07-25 11:01:41,2018-07-25 11:01:45,4.037s,PASSED
+closeBrowser,Chrome 67.0.3396.99,,2018-07-25 11:01:45,2018-07-25 11:01:46,0.626s,PASSED

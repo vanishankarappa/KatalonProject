@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>wefwe</description>
+   <name>getTextFromElement</name>
+   <tag>ere</tag>
+   <comment></comment>
+   <testCaseGuid>30a2aa49-3374-4dfe-841b-4141de542d19</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95816d6d-3be9-40dd-87eb-690de8046215</id>
+      <masked>false</masked>
+      <name>resp</name>
+   </variable>
+</TestCaseEntity>

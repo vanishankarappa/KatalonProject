@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Project</description>
+   <name>Demo1_SLK</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <type>PROJECT</type>
+   </integratedEntity>
+   <UUID>b293797b-a082-4054-9e84-d66572de78c1</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Login,,dff,2018-07-24 14:54:04,2018-07-24 14:54:05,0.929s,FAILED
+,,,,,,
+Test Cases/Login/Test1,,ghfhgf,2018-07-24 14:54:05,2018-07-24 14:54:05,0.594s,FAILED
+openBrowser,,,2018-07-24 14:54:05,2018-07-24 14:54:05,0.001s,NOT_RUN
+navigateToUrl,,,2018-07-24 14:54:05,2018-07-24 14:54:05,0.300s,FAILED

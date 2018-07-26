@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>asde</description>
+   <name>Login_ExtVar2</name>
+   <tag>ede</tag>
+   <comment></comment>
+   <testCaseGuid>f8882795-d42f-4233-9000-12cbda4e3976</testCaseGuid>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/'</defaultValue>
+      <description></description>
+      <id>548417cc-e970-4751-aff9-0b5de9b68584</id>
+      <masked>false</masked>
+      <name>App_Url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>971a2093-cc6c-4809-9ef8-3dce6cf69cba</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef50501e-d36a-40e6-babf-f63701a08adc</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

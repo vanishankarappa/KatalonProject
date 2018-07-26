@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Using Environment Variables</description>
+   <name>Login_EnvVar</name>
+   <tag>dfdf</tag>
+   <comment></comment>
+   <testCaseGuid>6f08b1c7-c66a-44ce-a217-04bc58dcc780</testCaseGuid>
+</TestCaseEntity>

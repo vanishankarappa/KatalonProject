@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sr</description>
+   <name>APITest1</name>
+   <tag>rw</tag>
+   <comment></comment>
+   <testCaseGuid>6f3620c5-f79e-4ef1-9380-6393184bfe3e</testCaseGuid>
+</TestCaseEntity>
